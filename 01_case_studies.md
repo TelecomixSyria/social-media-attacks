@@ -70,6 +70,6 @@ On 4th June 2013, people said to be belonging or connected to the "Syrian Electr
 - [Syrian Orient Channel](https://www.facebook.com/Kamera.shbab.Homs)
 - [Homs Revolution News](https://www.facebook.com/RevoInHoms)
 
-This attack probably needed the involvment of a large number of people to trigger automatic suspension. While it did not directly endanger people by revealing identificating information, it probably made opposition people unable to broadcast news to their usual public during some time (how long?).
+This attack probably needed the involvment of a large number of people to try to trigger automatic suspension. While it did not directly endanger people by revealing identificating information, it could have made opposition people unable to broadcast news to their usual public during some time. However, no closure due to these attacks have yet been reported.
 
 SecDev published a [longer analysis](http://gallery.mailchimp.com/eb7c0bde6ff78e88f9b0c8662/files/SecDev_Syria_FlashNote_4June2013.pdf).
