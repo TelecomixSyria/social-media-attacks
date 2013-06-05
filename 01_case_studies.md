@@ -55,3 +55,21 @@ However, in Tunisia, [Microsoft and Ben Ali's government](https://en.wikipedia.o
 In short, not only the Tunisian government was known to eavesdrop on non-secure traffic, but through their collaboration with a Western company they could eavesdrop on a traffic that users were legitimately thinking to be secure, with dramatic consequences.
 
 
+### Massive use of "report" function on Syrian opposition's Facebook pages to suppress content
+On 4th June 2013, people said to be belonging or connected to the "Syrian Electronic Army" massively used the Facebook's "report" function to trigger the automatic suspension of at least 11 opposition pages:
+
+- [Al Qusair Lens](https://www.facebook.com/Alqouserlens)
+- [The Chinese Army for Crushing Shabiha](https://www.facebook.com/the.chinese.crushers)
+- [Local Coordination Committee in Al Qusair](https://www.facebook.com/QusairRevolution)
+- [Local Coordination Committee in Erbine](https://www.facebook.com/erbinrevo)
+- [Aljazeera Al Yabroudiya](https://www.facebook.com/aljazeer.alyabroudia)
+- [Local Coordination Committee in Al Waar](https://www.facebook.com/Waar.Revolution.Window)
+- [Words of the Revolution](https://www.facebook.com/Words.Revo)
+- [YouTube Chinese Army](https://www.facebook.com/YouTubeChineseArmy)
+- [Syrian Youth of the Revolution](https://www.facebook.com/damas.rev.youth)
+- [Syrian Orient Channel](https://www.facebook.com/Kamera.shbab.Homs)
+- [Homs Revolution News](https://www.facebook.com/RevoInHoms)
+
+This attack probably needed the involvment of a large number of people to trigger automatic suspension. While it did not directly endanger people by revealing identificating information, it probably made opposition people unable to broadcast news to their usual public during some time (how long?).
+
+SecDev published a [longer analysis](http://gallery.mailchimp.com/eb7c0bde6ff78e88f9b0c8662/files/SecDev_Syria_FlashNote_4June2013.pdf).
